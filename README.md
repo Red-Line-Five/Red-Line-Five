@@ -60,6 +60,7 @@ I'm currently expanding into full-stack web development while keeping my core .N
 | [**EmailSenderApp**](https://github.com/Red-Line-Five/EmailSenderApp) | Bulk email sender with CV attachment support via MimeKit & MailKit | C# · WinForms |
 | [**NewsApp**](https://github.com/Red-Line-Five/NewsApp) | React Native news app powered by GNews API | React Native · TypeScript | 
 | [**bakery pos**](https://github.com/Red-Line-Five/bakery-pos) | Bakery POS system for managing sales, orders, receipts, and daily operations with real-time tracking | HTML · CSS · JavaScript |
+| [**Portal Visibility**](https://github.com/Red-Line-Five/PortalVisibility) | C#/.NET backend API implementing content visibility rules for a Shareholders Portal, including unit tests and clean architecture.| C# |
 
 ---
 
