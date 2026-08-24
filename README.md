@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Senior Software Engineer based in Lebanon, specializing in **C# / .NET** desktop applications and database-driven systems for government institutions and private companies. With over 7 years of hands-on experience, I've built and delivered production systems including:
+I'm a Software Engineer based in Lebanon, specializing in **C# / .NET** desktop applications and database-driven systems for government institutions and private companies. With over 7 years of hands-on experience, I've built and delivered production systems including:
 
 - 🚢 **Shipping & Logistics Software**
 - 🏪 **Point-of-Sale (POS) Systems**
